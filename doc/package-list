@@ -1,0 +1,7 @@
+weka.classifiers.timeseries
+weka.classifiers.timeseries.core
+weka.classifiers.timeseries.eval
+weka.classifiers.timeseries.eval.graph
+weka.classifiers.timeseries.gui
+weka.classifiers.timeseries.gui.explorer
+weka.gui.beans
